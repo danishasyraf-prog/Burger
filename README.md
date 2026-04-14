@@ -1,11 +1,11 @@
-# pilih menu makanan
+# Pilih menu makanan
 
-dibangunkan menggunakan html dan css untuk
--melihat paparan restoran
--memilih menu
--boleh menulis komen
+Dibangunkan menggunakan html dan css untuk
+-Melihat paparan restoran
+-Memilih menu
+-Boleh menulis komen
 
 ## Cara guna
 -Buka fail index.html dengan player web(chrome,firefox........)
--boleh memilih menu
--boleh menulis komen
+-Boleh memilih menu
+-Boleh menulis komen
