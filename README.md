@@ -1,7 +1,7 @@
 # Pilih menu makanan
 
 Dibangunkan menggunakan html dan css untuk
--Melihat paparan restoran
+.Melihat paparan restoran
 -Memilih menu
 -Boleh menulis komen
 
